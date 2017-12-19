@@ -19,6 +19,6 @@ NOTES:
 1.If you like, your pagecan be laid out using Bootstrap grid structure.Otherwise you will use HTML/HTML5 and regular CSS for creating the page layout. You can use Bootstrap framework for other style properties as well.
 2. You can use colors of your choice for your home page.  For different color schemes, check following link: http://www.colorschemer.com/schemes
 3.Your page will not be tested on Microsoft Internet Explorer or other browsers that do not comply with the web standards. It will be only tested on latest versions of Mozilla Firefox or Google Chrome.
-4.For full credit, your pages must pass the W3C HTML validator with no errors (a green bar). Choose appropriate HTML tags to match the structure of the content on the page. Do not express style information in HTML with inline styles or presentational HTML tags such as b or font.
+4.Your pages must pass the W3C HTML validator with no errors (a green bar). Choose appropriate HTML tags to match the structure of the content on the page. Do not express style information in HTML with inline styles or presentational HTML tags such as b or font.
 Use following site for validation of your pages:
 http://validator.w3.org/ (for HTML)
